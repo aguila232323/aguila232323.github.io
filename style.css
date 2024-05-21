@@ -137,3 +137,6 @@ body{
         transform: scaleX(.85);
     }
 }
+#letra{
+    font-size: medium;
+}
