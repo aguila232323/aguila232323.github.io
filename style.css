@@ -140,3 +140,12 @@ body{
 #letra{
     font-size: medium;
 }
+
+.img1{
+    height: 50px;
+    width: 50px;
+}
+.img2{
+    height: 100px;
+    width: 50px;
+}
